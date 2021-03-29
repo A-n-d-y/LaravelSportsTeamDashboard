@@ -12,22 +12,22 @@ Key features:
 
 ## Screenshots
 
-**Creating a player**
+**Creating a player** <br>
 ![enter image description here](https://i.ibb.co/pynhJqc/Screenshot-2021-03-29-at-22-37-34.png)
 
-**Displaying all players**
+**Displaying all players** <br>
 ![enter image description here](https://i.ibb.co/ch234DV/Screenshot-2021-03-29-at-23-08-45.png)
 
-**View player details**
+**View player details** <br>
 ![enter image description here](https://i.ibb.co/pJHT2nd/Screenshot-2021-03-29-at-23-08-56.png)
 
-**View all teams**
+**View all teams** <br>
 ![enter image description here](https://i.ibb.co/TRh8xkn/Screenshot-2021-03-29-at-23-09-08.png)
 
-**View dashboard roles**
+**View dashboard roles** <br>
 ![enter image description here](https://i.ibb.co/RcP75J2/Screenshot-2021-03-29-at-23-09-47.png)
 
-**Assign user roles**
+**Assign user roles** <br>
 ![enter image description here](https://i.ibb.co/sR3ww4L/Screenshot-2021-03-29-at-23-10-17.png)
 
 ## Routes
