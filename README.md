@@ -1,7 +1,7 @@
 
 ## Laravel Sports Team Dashboard
 
-**WORK IN PROGRESS! Estimated completion: 30/04/21**
+**WORK IN PROGRESS! Estimated completion: 30/03/21**
 
 Key features:
 - Create, read, update and delete teams via a dashboad
