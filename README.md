@@ -1,7 +1,8 @@
 
 ## Laravel Sports Team Dashboard
 
-**WORK IN PROGRESS! Estimated completion: 30/03/21**
+Remining tasks:
+- Seed data (Currently using factories)
 
 Key features:
 - Create, read, update and delete teams via a dashboad
