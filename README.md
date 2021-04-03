@@ -1,15 +1,29 @@
 
+
 ## Laravel Sports Team Dashboard
 
-Remining tasks:
-- Seed data (Currently using factories)
+This Laravel project contains a template to allow for expedited development. The template is centred around a database of sports teams and provides an admin dashboard to add more teams. 
 
 Key features:
-- Create, read, update and delete teams via a dashboad
+- Create, read, update and delete teams via an admin dashboard
 - Add players, including name and number
 - Associate players to teams
-- Set permission access to roles, permitting different user roles to list / view / edit / create / delete allowing a user to create teams and players.
+- Set permission access to roles, permitting different user roles to list / view/edit/create/delete, allowing a user to create teams and players.
+- Provides CRUD operations via API
 - Project comes with preconfigured relationships, models, auth, seeders and migration files
+
+## Install and setup
+
+ 1. `cd` to project root directory
+ 2. Run `composer install`
+ 3. Run `php artisan key:generate`
+ 4. Run `php artisan migrate`
+ 5. Run `php artisan db:seed`
+ 6. Run `php artisan serve`
+
+You can then login to the dashboard with:
+username: admin@admin.com
+password: admin
 
 ## Screenshots
 
