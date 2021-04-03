@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '5808129a1f702f973c7c31203d16db2066bd9030',
+    'reference' => '0cebfa6aedfcfc903bb84f8edeab0b99fa3748fd',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -445,7 +445,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '5808129a1f702f973c7c31203d16db2066bd9030',
+      'reference' => '0cebfa6aedfcfc903bb84f8edeab0b99fa3748fd',
     ),
     'laravel/sail' => 
     array (
@@ -583,6 +583,15 @@
       array (
       ),
       'reference' => '943b5d70cc5ae7483f6aff6ff43d7e34592ca0f5',
+    ),
+    'orangehill/iseed' => 
+    array (
+      'pretty_version' => 'v3.0.1',
+      'version' => '3.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '874f77a20d49aa4c6c5fec2daf0daa070514e013',
     ),
     'phar-io/manifest' => 
     array (
@@ -778,8 +787,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
